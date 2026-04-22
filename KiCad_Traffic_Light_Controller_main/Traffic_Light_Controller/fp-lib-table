@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "my_footprints") (type "KiCad") (uri "C:/Users/HomePC/Downloads/Logic_Lab_2/Kicad/KiCad_Traffic_Light_Controller/KiCad_Traffic_Light_Controller_guide-main/my_lib/my_footprints") (options "") (descr ""))
+)
